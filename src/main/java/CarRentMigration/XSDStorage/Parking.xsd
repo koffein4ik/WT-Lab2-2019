@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+    <xs:element name="Parkings">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="parking" type="parking" minOccurs="0" maxOccurs="unbounded"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+
+    <xs:complexType name="parking">
+        <xs:sequence>
+            <xs:element name="location" type="xs:string"/>
+            <xs:element name="carCapacity" type="xs:int"/>
+            <xs:element name="truckCapacity" type="xs:int"/>
+        </xs:sequence>
+        <xs:attribute name = 'id' type = 'xs:positiveInteger'/>
+    </xs:complexType>
+</xs:schema>

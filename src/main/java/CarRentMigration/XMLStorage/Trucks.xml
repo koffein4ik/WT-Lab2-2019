@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Trucks>
+ <truck id="1">
+  <model>V40</model>
+  <brand>Volvo</brand>
+  <color>White</color>
+  <number>LA123</number>
+  <maxSpeed>200</maxSpeed>
+  <weight>8000</weight>
+  <cargoVolume>20</cargoVolume>
+  <driveRange>800</driveRange>
+  <paymentPerMinute>10</paymentPerMinute>
+  <cargoCapacity>20000</cargoCapacity>
+  <parkingId>1</parkingId>
+ </truck>
+</Trucks>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Parkings>
+ <parking id="1">
+  <location>NY, 123 Avenue</location>
+  <carCapacity>20</carCapacity>
+  <truckCapacity>5</truckCapacity>
+ </parking>
+ <parking id="2">
+  <location>LA, 234 Street</location>
+  <carCapacity>200</carCapacity>
+  <truckCapacity>50</truckCapacity>
+ </parking>
+</Parkings>

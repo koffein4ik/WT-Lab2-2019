@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+    <xs:element name="Trucks">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="truck" type="truck" minOccurs="0" maxOccurs="unbounded"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+
+    <xs:complexType name="truck">
+        <xs:sequence>
+            <xs:element name="model" type="xs:string"/>
+            <xs:element name="brand" type="xs:string"/>
+            <xs:element name="color" type="xs:string"/>
+            <xs:element name="number" type="xs:string"/>
+            <xs:element name="maxSpeed" type="xs:int"/>
+            <xs:element name="weight" type="xs:int"/>
+            <xs:element name="cargoVolume" type="xs:int"/>
+            <xs:element name="driveRange" type="xs:int"/>
+            <xs:element name="paymentPerMinute" type="xs:int"/>
+            <xs:element name="cargoCapacity" type="xs:int"/>
+            <xs:element name="parkingId" type="xs:int"/>
+        </xs:sequence>
+        <xs:attribute name = 'id' type = 'xs:positiveInteger'/>
+    </xs:complexType>
+</xs:schema>

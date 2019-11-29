@@ -1,0 +1,335 @@
+2019-11-24 21:55:07 INFO  Application:18 - Finished
+2019-11-24 21:55:26 INFO  Application:18 - Finished
+2019-11-24 22:04:28 INFO  XMLValidator:34 - D:/CarRent2/src/main/java/CarRentMigration/XMLStorage/Users.xml has passed check through D:/CarRent2/src/main/java/CarRentMigration/XSDStorage/User.xsd
+2019-11-24 22:04:28 INFO  XMLUserDAOImpl:36 - XML is valid
+2019-11-24 22:04:28 INFO  XMLUserDAOImpl:64 - User JakcJones loaded successfully
+2019-11-24 22:04:28 INFO  Application:18 - Finished
+2019-11-24 22:04:28 INFO  XMLValidator:34 - D:/CarRent2/src/main/java/CarRentMigration/XMLStorage/Users.xml has passed check through D:/CarRent2/src/main/java/CarRentMigration/XSDStorage/User.xsd
+2019-11-24 22:04:28 INFO  XMLUserDAOImpl:36 - XML is valid
+2019-11-24 22:04:28 INFO  XMLUserDAOImpl:64 - User JakcJones loaded successfully
+2019-11-24 22:04:29 INFO  SQLUserDAOImpl:22 - Successfully connected to jdbc:mysql://localhost:3306/carrent?serverTimezone=UTC
+2019-11-24 22:04:29 INFO  SQLUserDAOImpl:48 - User JakcJones already exists in db
+2019-11-24 22:34:24 INFO  XMLValidator:34 - D:/CarRent2/src/main/java/CarRentMigration/XMLStorage/Admins.xml has passed check through D:/CarRent2/src/main/java/CarRentMigration/XSDStorage/Admin.xsd
+2019-11-24 22:34:24 INFO  XMLAdminDAOImpl:35 - XML is valid
+2019-11-24 22:34:24 INFO  XMLAdminDAOImpl:64 - Admin JakcJones loaded successfully
+2019-11-24 22:34:24 INFO  Application:20 - Finished
+2019-11-24 22:34:24 INFO  XMLValidator:34 - D:/CarRent2/src/main/java/CarRentMigration/XMLStorage/Admins.xml has passed check through D:/CarRent2/src/main/java/CarRentMigration/XSDStorage/Admin.xsd
+2019-11-24 22:34:24 INFO  XMLAdminDAOImpl:35 - XML is valid
+2019-11-24 22:34:24 INFO  XMLAdminDAOImpl:64 - Admin JakcJones loaded successfully
+2019-11-24 22:34:25 INFO  SQLAdminDAOImpl:22 - Successfully connected to jdbc:mysql://localhost:3306/carrent?serverTimezone=UTC
+2019-11-24 22:34:25 ERROR SQLAdminDAOImpl:53 - Column count doesn't match value count at row 1
+2019-11-24 22:36:25 INFO  XMLValidator:34 - D:/CarRent2/src/main/java/CarRentMigration/XMLStorage/Admins.xml has passed check through D:/CarRent2/src/main/java/CarRentMigration/XSDStorage/Admin.xsd
+2019-11-24 22:36:25 INFO  XMLAdminDAOImpl:35 - XML is valid
+2019-11-24 22:36:25 INFO  XMLAdminDAOImpl:64 - Admin JakcJones loaded successfully
+2019-11-24 22:36:25 INFO  Application:20 - Finished
+2019-11-24 22:36:25 INFO  XMLValidator:34 - D:/CarRent2/src/main/java/CarRentMigration/XMLStorage/Admins.xml has passed check through D:/CarRent2/src/main/java/CarRentMigration/XSDStorage/Admin.xsd
+2019-11-24 22:36:25 INFO  XMLAdminDAOImpl:35 - XML is valid
+2019-11-24 22:36:25 INFO  XMLAdminDAOImpl:64 - Admin JakcJones loaded successfully
+2019-11-24 22:36:26 INFO  SQLAdminDAOImpl:22 - Successfully connected to jdbc:mysql://localhost:3306/carrent?serverTimezone=UTC
+2019-11-24 22:36:26 INFO  SQLAdminDAOImpl:46 - Admin JakcJones has been successfully added to db
+2019-11-24 23:05:08 INFO  XMLValidator:34 - D:/CarRent2/src/main/java/CarRentMigration/XMLStorage/Cars.xml has passed check through D:/CarRent2/src/main/java/CarRentMigration/XSDStorage/Car.xsd
+2019-11-24 23:05:08 INFO  XMLCarDAOImpl:35 - XML is valid
+2019-11-24 23:05:08 INFO  XMLCarDAOImpl:66 - Car NY543 loaded successfully
+2019-11-24 23:05:08 INFO  Application:20 - Finished
+2019-11-24 23:05:08 INFO  XMLValidator:34 - D:/CarRent2/src/main/java/CarRentMigration/XMLStorage/Cars.xml has passed check through D:/CarRent2/src/main/java/CarRentMigration/XSDStorage/Car.xsd
+2019-11-24 23:05:08 INFO  XMLCarDAOImpl:35 - XML is valid
+2019-11-24 23:05:08 INFO  XMLCarDAOImpl:66 - Car NY543 loaded successfully
+2019-11-24 23:05:09 INFO  SQLCarDAOImpl:22 - Successfully connected to jdbc:mysql://localhost:3306/carrent?serverTimezone=UTC
+2019-11-24 23:05:09 ERROR SQLCarDAOImpl:54 - No value specified for parameter 4
+2019-11-24 23:06:21 INFO  XMLValidator:34 - D:/CarRent2/src/main/java/CarRentMigration/XMLStorage/Cars.xml has passed check through D:/CarRent2/src/main/java/CarRentMigration/XSDStorage/Car.xsd
+2019-11-24 23:06:21 INFO  XMLCarDAOImpl:35 - XML is valid
+2019-11-24 23:06:21 INFO  XMLCarDAOImpl:66 - Car NY543 loaded successfully
+2019-11-24 23:06:21 INFO  Application:20 - Finished
+2019-11-24 23:06:22 INFO  XMLValidator:34 - D:/CarRent2/src/main/java/CarRentMigration/XMLStorage/Cars.xml has passed check through D:/CarRent2/src/main/java/CarRentMigration/XSDStorage/Car.xsd
+2019-11-24 23:06:22 INFO  XMLCarDAOImpl:35 - XML is valid
+2019-11-24 23:06:22 INFO  XMLCarDAOImpl:66 - Car NY543 loaded successfully
+2019-11-24 23:06:22 INFO  SQLCarDAOImpl:22 - Successfully connected to jdbc:mysql://localhost:3306/carrent?serverTimezone=UTC
+2019-11-24 23:06:22 ERROR SQLCarDAOImpl:53 - You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+2019-11-24 23:06:42 INFO  XMLValidator:34 - D:/CarRent2/src/main/java/CarRentMigration/XMLStorage/Cars.xml has passed check through D:/CarRent2/src/main/java/CarRentMigration/XSDStorage/Car.xsd
+2019-11-24 23:06:42 INFO  XMLCarDAOImpl:35 - XML is valid
+2019-11-24 23:06:42 INFO  XMLCarDAOImpl:66 - Car NY543 loaded successfully
+2019-11-24 23:06:42 INFO  Application:20 - Finished
+2019-11-24 23:06:42 INFO  XMLValidator:34 - D:/CarRent2/src/main/java/CarRentMigration/XMLStorage/Cars.xml has passed check through D:/CarRent2/src/main/java/CarRentMigration/XSDStorage/Car.xsd
+2019-11-24 23:06:42 INFO  XMLCarDAOImpl:35 - XML is valid
+2019-11-24 23:06:42 INFO  XMLCarDAOImpl:66 - Car NY543 loaded successfully
+2019-11-24 23:06:43 INFO  SQLCarDAOImpl:22 - Successfully connected to jdbc:mysql://localhost:3306/carrent?serverTimezone=UTC
+2019-11-24 23:06:43 INFO  SQLCarDAOImpl:46 - Car NY543 has been successfully added to db
+2019-11-24 23:30:54 WARN  XMLValidator:30 - D:/TruckRent2/src/main/java/TruckRentMigration/XMLStorage/Trucks.xml has'n passed check through D:/TruckRent2/src/main/java/TruckRentMigration/XSDStorage/Truck.xsd
+2019-11-24 23:30:54 ERROR XMLTruckDAOImpl:31 - XML is not valid.
+2019-11-24 23:30:54 INFO  Application:20 - Finished
+2019-11-24 23:30:54 WARN  XMLValidator:30 - D:/TruckRent2/src/main/java/TruckRentMigration/XMLStorage/Trucks.xml has'n passed check through D:/TruckRent2/src/main/java/TruckRentMigration/XSDStorage/Truck.xsd
+2019-11-24 23:30:54 ERROR XMLTruckDAOImpl:31 - XML is not valid.
+2019-11-24 23:30:55 INFO  SQLTruckDAOImpl:23 - Successfully connected to jdbc:mysql://localhost:3306/carrent?serverTimezone=UTC
+2019-11-24 23:31:20 WARN  XMLValidator:30 - D:/TruckRent2/src/main/java/CarRentMigration/XMLStorage/Trucks.xml has'n passed check through D:/TruckRent2/src/main/java/CarRentMigration/XSDStorage/Truck.xsd
+2019-11-24 23:31:20 ERROR XMLTruckDAOImpl:31 - XML is not valid.
+2019-11-24 23:31:20 INFO  Application:20 - Finished
+2019-11-24 23:31:20 WARN  XMLValidator:30 - D:/TruckRent2/src/main/java/CarRentMigration/XMLStorage/Trucks.xml has'n passed check through D:/TruckRent2/src/main/java/CarRentMigration/XSDStorage/Truck.xsd
+2019-11-24 23:31:20 ERROR XMLTruckDAOImpl:31 - XML is not valid.
+2019-11-24 23:31:20 INFO  SQLTruckDAOImpl:23 - Successfully connected to jdbc:mysql://localhost:3306/carrent?serverTimezone=UTC
+2019-11-24 23:31:51 WARN  XMLValidator:30 - D:/TruckRent2/src/main/java/CarRentMigration/XMLStorage/Trucks.xml has'n passed check through D:/TruckRent2/src/main/java/CarRentMigration/XSDStorage/Truck.xsd
+2019-11-24 23:31:51 ERROR XMLTruckDAOImpl:31 - XML is not valid.
+2019-11-24 23:31:51 INFO  Application:20 - Finished
+2019-11-24 23:31:51 WARN  XMLValidator:30 - D:/TruckRent2/src/main/java/CarRentMigration/XMLStorage/Trucks.xml has'n passed check through D:/TruckRent2/src/main/java/CarRentMigration/XSDStorage/Truck.xsd
+2019-11-24 23:31:51 ERROR XMLTruckDAOImpl:31 - XML is not valid.
+2019-11-24 23:31:52 INFO  SQLTruckDAOImpl:23 - Successfully connected to jdbc:mysql://localhost:3306/carrent?serverTimezone=UTC
+2019-11-24 23:37:30 WARN  XMLValidator:30 - D:/CarRent2/src/main/java/CarRentMigration/XMLStorage/Trucks.xml has'n passed check through D:/CarRent2/src/main/java/CarRentMigration/XSDStorage/Truck.xsd
+2019-11-24 23:37:30 ERROR XMLTruckDAOImpl:31 - XML is not valid.
+2019-11-24 23:37:30 INFO  Application:20 - Finished
+2019-11-24 23:37:30 WARN  XMLValidator:30 - D:/CarRent2/src/main/java/CarRentMigration/XMLStorage/Trucks.xml has'n passed check through D:/CarRent2/src/main/java/CarRentMigration/XSDStorage/Truck.xsd
+2019-11-24 23:37:30 ERROR XMLTruckDAOImpl:31 - XML is not valid.
+2019-11-24 23:37:30 INFO  SQLTruckDAOImpl:23 - Successfully connected to jdbc:mysql://localhost:3306/carrent?serverTimezone=UTC
+2019-11-24 23:39:54 INFO  XMLValidator:34 - D:/CarRent2/src/main/java/CarRentMigration/XMLStorage/Trucks.xml has passed check through D:/CarRent2/src/main/java/CarRentMigration/XSDStorage/Truck.xsd
+2019-11-24 23:39:54 INFO  XMLTruckDAOImpl:35 - XML is valid
+2019-11-24 23:39:54 INFO  XMLTruckDAOImpl:66 - Truck LA123 loaded successfully
+2019-11-24 23:39:54 INFO  Application:20 - Finished
+2019-11-24 23:39:54 INFO  XMLValidator:34 - D:/CarRent2/src/main/java/CarRentMigration/XMLStorage/Trucks.xml has passed check through D:/CarRent2/src/main/java/CarRentMigration/XSDStorage/Truck.xsd
+2019-11-24 23:39:54 INFO  XMLTruckDAOImpl:35 - XML is valid
+2019-11-24 23:39:54 INFO  XMLTruckDAOImpl:66 - Truck LA123 loaded successfully
+2019-11-24 23:39:55 INFO  SQLTruckDAOImpl:23 - Successfully connected to jdbc:mysql://localhost:3306/carrent?serverTimezone=UTC
+2019-11-24 23:39:55 INFO  SQLTruckDAOImpl:47 - Truck LA123 has been successfully added to db
+2019-11-25 12:47:43 WARN  XMLValidator:30 - D:/CarRent2/src/main/java/CarRentMigration/XMLStorage/Cars.xml has'n passed check through D:/CarRent2/src/main/java/CarRentMigration/XSDStorage/Car.xsd
+2019-11-25 12:47:43 ERROR XMLCarDAOImpl:31 - XML is not valid.
+2019-11-25 12:48:42 INFO  XMLValidator:34 - D:/CarRent2/src/main/java/CarRentMigration/XMLStorage/Cars.xml has passed check through D:/CarRent2/src/main/java/CarRentMigration/XSDStorage/Car.xsd
+2019-11-25 12:48:42 INFO  XMLCarDAOImpl:35 - XML is valid
+2019-11-25 12:48:42 INFO  XMLCarDAOImpl:66 - Car NY543 loaded successfully
+2019-11-25 12:48:42 INFO  XMLCarDAOImpl:66 - Car NY543 loaded successfully
+2019-11-25 13:09:46 WARN  XMLValidator:30 - D:/CarRent2/src/main/java/CarRentMigration/XMLStorage/Parkings.xml has'n passed check through D:/CarRent2/src/main/java/CarRentMigration/XSDStorage/Parking.xsd
+2019-11-25 13:09:46 ERROR XMLParkingDAOImpl:31 - XML is not valid.
+2019-11-25 13:09:47 INFO  SQLParkingDAOImpl:22 - Successfully connected to jdbc:mysql://localhost:3306/carrent?serverTimezone=UTC
+2019-11-25 13:09:47 INFO  Application:18 - Finished
+2019-11-25 13:10:13 WARN  XMLValidator:30 - D:/CarRent2/src/main/java/CarRentMigration/XMLStorage/Parkings.xml has'n passed check through D:/CarRent2/src/main/java/CarRentMigration/XSDStorage/Parking.xsd
+2019-11-25 13:10:13 ERROR XMLParkingDAOImpl:31 - XML is not valid.
+2019-11-25 13:10:14 INFO  SQLParkingDAOImpl:22 - Successfully connected to jdbc:mysql://localhost:3306/carrent?serverTimezone=UTC
+2019-11-25 13:10:14 INFO  Application:18 - Finished
+2019-11-25 13:10:51 WARN  XMLValidator:30 - D:/CarRent2/src/main/java/CarRentMigration/XMLStorage/Parkings.xml has'n passed check through D:/CarRent2/src/main/java/CarRentMigration/XSDStorage/Parking.xsd
+2019-11-25 13:10:51 ERROR XMLParkingDAOImpl:31 - XML is not valid.
+2019-11-25 13:10:51 INFO  SQLParkingDAOImpl:22 - Successfully connected to jdbc:mysql://localhost:3306/carrent?serverTimezone=UTC
+2019-11-25 13:10:51 INFO  Application:18 - Finished
+2019-11-25 13:11:10 INFO  XMLValidator:34 - D:/CarRent2/src/main/java/CarRentMigration/XMLStorage/Parkings.xml has passed check through D:/CarRent2/src/main/java/CarRentMigration/XSDStorage/Parking.xsd
+2019-11-25 13:11:10 INFO  XMLParkingDAOImpl:35 - XML is valid
+2019-11-25 13:11:10 INFO  XMLParkingDAOImpl:59 - Parking at NY, 123 Avenue loaded successfully
+2019-11-25 13:11:10 INFO  SQLParkingDAOImpl:22 - Successfully connected to jdbc:mysql://localhost:3306/carrent?serverTimezone=UTC
+2019-11-25 13:11:10 ERROR SQLParkingDAOImpl:42 - Unknown column 'location' in 'where clause'
+2019-11-25 13:11:10 INFO  Application:18 - Finished
+2019-11-25 13:12:49 INFO  XMLValidator:34 - D:/CarRent2/src/main/java/CarRentMigration/XMLStorage/Parkings.xml has passed check through D:/CarRent2/src/main/java/CarRentMigration/XSDStorage/Parking.xsd
+2019-11-25 13:12:49 INFO  XMLParkingDAOImpl:35 - XML is valid
+2019-11-25 13:12:49 INFO  XMLParkingDAOImpl:59 - Parking at NY, 123 Avenue loaded successfully
+2019-11-25 13:12:50 INFO  SQLParkingDAOImpl:22 - Successfully connected to jdbc:mysql://localhost:3306/carrent?serverTimezone=UTC
+2019-11-25 13:12:50 INFO  SQLParkingDAOImpl:35 - Parking at NY, 123 Avenue has been successfully added to db
+2019-11-25 13:12:50 INFO  Application:18 - Finished
+2019-11-25 15:00:11 WARN  XMLValidator:30 - D:/CarRent2/src/main/java/CarRentMigration/XMLStorage/Drivers.xml has'n passed check through D:/CarRent2/src/main/java/CarRentMigration/XSDStorage/Driver.xsd
+2019-11-25 15:00:11 ERROR XMLDriverDAOImpl:31 - XML is not valid.
+2019-11-25 15:00:12 ERROR SQLDriverDAOImpl:53 - Access denied for user 'root'@'localhost' (using password: YES)
+2019-11-25 15:00:12 INFO  Application:18 - Finished
+2019-11-25 15:00:35 WARN  XMLValidator:30 - D:/CarRent2/src/main/java/CarRentMigration/XMLStorage/Drivers.xml has'n passed check through D:/CarRent2/src/main/java/CarRentMigration/XSDStorage/Driver.xsd
+2019-11-25 15:00:35 ERROR XMLDriverDAOImpl:31 - XML is not valid.
+2019-11-25 15:00:35 ERROR SQLDriverDAOImpl:53 - Access denied for user 'root'@'localhost' (using password: YES)
+2019-11-25 15:00:35 INFO  Application:18 - Finished
+2019-11-25 15:00:50 WARN  XMLValidator:30 - D:/CarRent2/src/main/java/CarRentMigration/XMLStorage/Drivers.xml has'n passed check through D:/CarRent2/src/main/java/CarRentMigration/XSDStorage/Driver.xsd
+2019-11-25 15:00:50 ERROR XMLDriverDAOImpl:31 - XML is not valid.
+2019-11-25 15:00:50 ERROR SQLDriverDAOImpl:53 - Access denied for user 'root'@'localhost' (using password: YES)
+2019-11-25 15:00:50 INFO  Application:18 - Finished
+2019-11-25 15:01:24 INFO  XMLValidator:34 - D:/CarRent2/src/main/java/CarRentMigration/XMLStorage/Drivers.xml has passed check through D:/CarRent2/src/main/java/CarRentMigration/XSDStorage/Driver.xsd
+2019-11-25 15:01:24 INFO  XMLDriverDAOImpl:35 - XML is valid
+2019-11-25 15:01:24 INFO  XMLDriverDAOImpl:62 - Driver Jack Jones loaded successfully
+2019-11-25 15:01:25 ERROR SQLDriverDAOImpl:53 - Access denied for user 'root'@'localhost' (using password: YES)
+2019-11-25 15:01:25 INFO  Application:18 - Finished
+2019-11-25 15:02:47 INFO  XMLValidator:34 - D:/CarRent2/src/main/java/CarRentMigration/XMLStorage/Drivers.xml has passed check through D:/CarRent2/src/main/java/CarRentMigration/XSDStorage/Driver.xsd
+2019-11-25 15:02:47 INFO  XMLDriverDAOImpl:35 - XML is valid
+2019-11-25 15:02:47 INFO  XMLDriverDAOImpl:62 - Driver Jack Jones loaded successfully
+2019-11-25 15:02:48 ERROR SQLDriverDAOImpl:53 - Access denied for user 'root'@'localhost' (using password: YES)
+2019-11-25 15:02:48 INFO  Application:18 - Finished
+2019-11-25 15:05:09 INFO  XMLValidator:34 - D:/CarRent2/src/main/java/CarRentMigration/XMLStorage/Drivers.xml has passed check through D:/CarRent2/src/main/java/CarRentMigration/XSDStorage/Driver.xsd
+2019-11-25 15:05:09 INFO  XMLDriverDAOImpl:35 - XML is valid
+2019-11-25 15:05:09 INFO  XMLDriverDAOImpl:62 - Driver Jack Jones loaded successfully
+2019-11-25 15:05:10 INFO  SQLDriverDAOImpl:22 - Successfully connected to jdbc:mysql://localhost:3306/carrent?serverTimezone=UTC
+2019-11-25 15:05:10 INFO  SQLDriverDAOImpl:43 - Driver Jack Jones has been successfully added to db
+2019-11-25 15:05:10 INFO  Application:18 - Finished
+2019-11-25 16:38:09 INFO  XMLValidator:24 - D:/CarRent2/src/main/java/CarRentMigration/XMLStorage/Users.xml has passed check through D:/CarRent2/src/main/java/CarRentMigration/XSDStorage/User.xsd
+2019-11-25 16:38:09 INFO  XMLUserDAOImpl:35 - XML is valid
+2019-11-25 16:38:09 INFO  XMLUserDAOImpl:68 - User JakcJones loaded successfully
+2019-11-25 16:38:10 INFO  SQLUserDAOImpl:22 - Successfully connected to jdbc:mysql://localhost:3306/carrent?serverTimezone=UTC
+2019-11-25 16:38:10 INFO  SQLUserDAOImpl:48 - User JakcJones already exists in db
+2019-11-25 21:55:27 INFO  XMLValidator:24 - D:/CarRent2/src/main/java/CarRentMigration/XMLStorage/Users.xml has passed check through D:/CarRent2/src/main/java/CarRentMigration/XSDStorage/User.xsd
+2019-11-25 21:55:27 INFO  XMLUserDAOImpl:35 - XML is valid
+2019-11-25 21:55:27 INFO  XMLUserDAOImpl:68 - User JakcJones loaded successfully
+2019-11-25 21:55:28 INFO  SQLUserDAOImpl:22 - Successfully connected to jdbc:mysql://localhost:3306/carrent?serverTimezone=UTC
+2019-11-25 21:55:28 INFO  SQLUserDAOImpl:48 - User JakcJones already exists in db
+2019-11-25 21:56:19 INFO  XMLValidator:24 - D:/CarRent2/src/main/java/CarRentMigration/XMLStorage/Users.xml has passed check through D:/CarRent2/src/main/java/CarRentMigration/XSDStorage/User.xsd
+2019-11-25 21:56:19 INFO  XMLUserDAOImpl:35 - XML is valid
+2019-11-25 21:56:19 INFO  XMLUserDAOImpl:68 - User JakcJones loaded successfully
+2019-11-25 21:56:19 INFO  SQLUserDAOImpl:22 - Successfully connected to jdbc:mysql://localhost:3306/carrent?serverTimezone=UTC
+2019-11-25 21:56:19 INFO  SQLUserDAOImpl:45 - User JakcJones has been successfully added to db
+2019-11-25 21:59:02 INFO  XMLValidator:24 - D:/CarRent2/src/main/java/CarRentMigration/XMLStorage/Users.xml has passed check through D:/CarRent2/src/main/java/CarRentMigration/XSDStorage/User.xsd
+2019-11-25 21:59:02 INFO  XMLUserDAOImpl:35 - XML is valid
+2019-11-25 21:59:02 INFO  XMLUserDAOImpl:68 - User JakcJones loaded successfully
+2019-11-25 21:59:04 INFO  SQLUserDAOImpl:22 - Successfully connected to jdbc:mysql://localhost:3306/carrent?serverTimezone=UTC
+2019-11-25 21:59:04 INFO  SQLUserDAOImpl:45 - User JakcJones has been successfully added to db
+2019-11-25 22:19:30 INFO  XMLValidator:24 - D:/CarRent2/src/main/java/CarRentMigration/XMLStorage/Cars.xml has passed check through D:/CarRent2/src/main/java/CarRentMigration/XSDStorage/Car.xsd
+2019-11-25 22:19:30 INFO  XMLCarDAOImpl:35 - XML is valid
+2019-11-25 22:19:30 INFO  XMLCarDAOImpl:71 - Car NY543 loaded successfully
+2019-11-25 22:19:30 INFO  XMLCarDAOImpl:71 - Car NY544 loaded successfully
+2019-11-25 22:19:31 INFO  SQLCarDAOImpl:22 - Successfully connected to jdbc:mysql://localhost:3306/carrent?serverTimezone=UTC
+2019-11-25 22:19:31 INFO  SQLCarDAOImpl:49 - Car NY543 already exists in db
+2019-11-25 22:19:31 INFO  SQLCarDAOImpl:46 - Car NY544 has been successfully added to db
+2019-11-25 22:22:59 INFO  XMLValidator:24 - D:/CarRent2/src/main/java/CarRentMigration/XMLStorage/Cars.xml has passed check through D:/CarRent2/src/main/java/CarRentMigration/XSDStorage/Car.xsd
+2019-11-25 22:22:59 INFO  XMLCarDAOImpl:35 - XML is valid
+2019-11-25 22:22:59 INFO  XMLCarDAOImpl:72 - Car NY543 loaded successfully
+2019-11-25 22:22:59 INFO  XMLCarDAOImpl:72 - Car NY544 loaded successfully
+2019-11-25 22:23:00 INFO  SQLCarDAOImpl:22 - Successfully connected to jdbc:mysql://localhost:3306/carrent?serverTimezone=UTC
+2019-11-25 22:23:00 INFO  SQLCarDAOImpl:46 - Car NY543 has been successfully added to db
+2019-11-25 22:23:00 INFO  SQLCarDAOImpl:46 - Car NY544 has been successfully added to db
+2019-11-25 22:26:35 INFO  XMLValidator:24 - D:/CarRent2/src/main/java/CarRentMigration/XMLStorage/Cars.xml has passed check through D:/CarRent2/src/main/java/CarRentMigration/XSDStorage/Car.xsd
+2019-11-25 22:26:35 INFO  XMLCarDAOImpl:35 - XML is valid
+2019-11-25 22:26:35 INFO  XMLCarDAOImpl:72 - Car NY543 loaded successfully
+2019-11-25 22:26:35 INFO  XMLCarDAOImpl:72 - Car NY544 loaded successfully
+2019-11-25 22:26:35 INFO  SQLCarDAOImpl:22 - Successfully connected to jdbc:mysql://localhost:3306/carrent?serverTimezone=UTC
+2019-11-25 22:26:35 ERROR SQLCarDAOImpl:54 - Column count doesn't match value count at row 1
+2019-11-25 22:26:35 ERROR AdminServiceImpl:34 - java.sql.SQLException: Column count doesn't match value count at row 1
+2019-11-25 22:26:35 ERROR CarControllerImpl:19 - CarRentMigration.DAO.DAOException: java.sql.SQLException: Column count doesn't match value count at row 1
+2019-11-25 22:29:07 INFO  XMLValidator:24 - D:/CarRent2/src/main/java/CarRentMigration/XMLStorage/Cars.xml has passed check through D:/CarRent2/src/main/java/CarRentMigration/XSDStorage/Car.xsd
+2019-11-25 22:29:07 INFO  XMLCarDAOImpl:35 - XML is valid
+2019-11-25 22:29:07 INFO  XMLCarDAOImpl:72 - Car NY543 loaded successfully
+2019-11-25 22:29:07 INFO  XMLCarDAOImpl:72 - Car NY544 loaded successfully
+2019-11-25 22:29:08 INFO  SQLCarDAOImpl:22 - Successfully connected to jdbc:mysql://localhost:3306/carrent?serverTimezone=UTC
+2019-11-25 22:29:08 INFO  SQLCarDAOImpl:47 - Car NY543 has been successfully added to db
+2019-11-25 22:29:08 INFO  SQLCarDAOImpl:47 - Car NY544 has been successfully added to db
+2019-11-25 22:29:51 INFO  XMLValidator:24 - D:/CarRent2/src/main/java/CarRentMigration/XMLStorage/Trucks.xml has passed check through D:/CarRent2/src/main/java/CarRentMigration/XSDStorage/Truck.xsd
+2019-11-25 22:29:51 INFO  XMLTruckDAOImpl:35 - XML is valid
+2019-11-25 22:29:51 INFO  XMLTruckDAOImpl:72 - Truck LA123 loaded successfully
+2019-11-25 22:29:51 INFO  SQLTruckDAOImpl:23 - Successfully connected to jdbc:mysql://localhost:3306/carrent?serverTimezone=UTC
+2019-11-25 22:29:51 ERROR SQLTruckDAOImpl:55 - Cannot add or update a child row: a foreign key constraint fails (`carrent`.`trucks`, CONSTRAINT `trucks_ibfk_1` FOREIGN KEY (`parking_id`) REFERENCES `parkings` (`id`))
+2019-11-25 22:29:51 ERROR TruckServiceImpl:34 - java.sql.SQLIntegrityConstraintViolationException: Cannot add or update a child row: a foreign key constraint fails (`carrent`.`trucks`, CONSTRAINT `trucks_ibfk_1` FOREIGN KEY (`parking_id`) REFERENCES `parkings` (`id`))
+2019-11-25 22:29:51 ERROR TruckControllerImpl:19 - CarRentMigration.DAO.DAOException: java.sql.SQLIntegrityConstraintViolationException: Cannot add or update a child row: a foreign key constraint fails (`carrent`.`trucks`, CONSTRAINT `trucks_ibfk_1` FOREIGN KEY (`parking_id`) REFERENCES `parkings` (`id`))
+2019-11-25 22:30:21 INFO  XMLValidator:24 - D:/CarRent2/src/main/java/CarRentMigration/XMLStorage/Trucks.xml has passed check through D:/CarRent2/src/main/java/CarRentMigration/XSDStorage/Truck.xsd
+2019-11-25 22:30:21 INFO  XMLTruckDAOImpl:35 - XML is valid
+2019-11-25 22:30:21 INFO  XMLTruckDAOImpl:72 - Truck LA123 loaded successfully
+2019-11-25 22:30:21 INFO  SQLTruckDAOImpl:23 - Successfully connected to jdbc:mysql://localhost:3306/carrent?serverTimezone=UTC
+2019-11-25 22:30:21 ERROR SQLTruckDAOImpl:55 - Cannot add or update a child row: a foreign key constraint fails (`carrent`.`trucks`, CONSTRAINT `trucks_ibfk_1` FOREIGN KEY (`parking_id`) REFERENCES `parkings` (`id`))
+2019-11-25 22:30:21 ERROR TruckServiceImpl:34 - java.sql.SQLIntegrityConstraintViolationException: Cannot add or update a child row: a foreign key constraint fails (`carrent`.`trucks`, CONSTRAINT `trucks_ibfk_1` FOREIGN KEY (`parking_id`) REFERENCES `parkings` (`id`))
+2019-11-25 22:30:21 ERROR TruckControllerImpl:19 - CarRentMigration.DAO.DAOException: java.sql.SQLIntegrityConstraintViolationException: Cannot add or update a child row: a foreign key constraint fails (`carrent`.`trucks`, CONSTRAINT `trucks_ibfk_1` FOREIGN KEY (`parking_id`) REFERENCES `parkings` (`id`))
+2019-11-25 22:31:02 INFO  XMLValidator:24 - D:/CarRent2/src/main/java/CarRentMigration/XMLStorage/Trucks.xml has passed check through D:/CarRent2/src/main/java/CarRentMigration/XSDStorage/Truck.xsd
+2019-11-25 22:31:02 INFO  XMLTruckDAOImpl:35 - XML is valid
+2019-11-25 22:31:02 INFO  XMLTruckDAOImpl:72 - Truck LA123 loaded successfully
+2019-11-25 22:31:02 INFO  SQLTruckDAOImpl:23 - Successfully connected to jdbc:mysql://localhost:3306/carrent?serverTimezone=UTC
+2019-11-25 22:31:02 INFO  SQLTruckDAOImpl:48 - Truck LA123 has been successfully added to db
+2019-11-25 22:32:18 INFO  XMLValidator:24 - D:/CarRent2/src/main/java/CarRentMigration/XMLStorage/Trucks.xml has passed check through D:/CarRent2/src/main/java/CarRentMigration/XSDStorage/Truck.xsd
+2019-11-25 22:32:18 INFO  XMLTruckDAOImpl:35 - XML is valid
+2019-11-25 22:32:18 INFO  XMLTruckDAOImpl:72 - Truck LA123 loaded successfully
+2019-11-25 22:32:18 INFO  SQLTruckDAOImpl:23 - Successfully connected to jdbc:mysql://localhost:3306/carrent?serverTimezone=UTC
+2019-11-25 22:32:18 INFO  SQLTruckDAOImpl:48 - Truck LA123 has been successfully added to db
+2019-11-25 22:41:13 INFO  XMLValidator:24 - D:/CarRent2/src/main/java/CarRentMigration/XMLStorage/Parkings.xml has passed check through D:/CarRent2/src/main/java/CarRentMigration/XSDStorage/Parking.xsd
+2019-11-25 22:41:13 INFO  XMLParkingDAOImpl:35 - XML is valid
+2019-11-25 22:41:13 INFO  XMLParkingDAOImpl:65 - Parking at NY, 123 Avenue loaded successfully
+2019-11-25 22:41:13 INFO  XMLParkingDAOImpl:65 - Parking at LA, 234 Street loaded successfully
+2019-11-25 22:41:14 INFO  SQLParkingDAOImpl:22 - Successfully connected to jdbc:mysql://localhost:3306/carrent?serverTimezone=UTC
+2019-11-25 22:41:14 INFO  SQLParkingDAOImpl:39 - Parking at NY, 123 Avenue already exists in db
+2019-11-25 22:41:14 INFO  SQLParkingDAOImpl:36 - Parking at LA, 234 Street has been successfully added to db
+2019-11-26 08:17:54 INFO  XMLValidator:24 - D:/CarRent2/src/main/java/CarRentMigration/XMLStorage/Cars.xml has passed check through D:/CarRent2/src/main/java/CarRentMigration/XSDStorage/Car.xsd
+2019-11-26 08:17:54 INFO  XMLCarDAOImpl:35 - XML is valid
+2019-11-26 08:17:55 INFO  XMLCarDAOImpl:72 - Car NY543 loaded successfully
+2019-11-26 08:17:55 INFO  XMLCarDAOImpl:72 - Car NY544 loaded successfully
+2019-11-26 08:17:56 INFO  SQLCarDAOImpl:22 - Successfully connected to jdbc:mysql://localhost:3306/carrent?serverTimezone=UTC
+2019-11-26 08:17:56 ERROR SQLCarDAOImpl:68 - Unknown column 'parking_id' in 'where clause'
+2019-11-26 08:17:56 ERROR AdminServiceImpl:34 - java.sql.SQLSyntaxErrorException: Unknown column 'parking_id' in 'where clause'
+2019-11-26 08:17:56 ERROR CarControllerImpl:19 - CarRentMigration.DAO.DAOException: java.sql.SQLSyntaxErrorException: Unknown column 'parking_id' in 'where clause'
+2019-11-26 08:20:28 INFO  XMLValidator:24 - D:/CarRent2/src/main/java/CarRentMigration/XMLStorage/Cars.xml has passed check through D:/CarRent2/src/main/java/CarRentMigration/XSDStorage/Car.xsd
+2019-11-26 08:20:28 INFO  XMLCarDAOImpl:35 - XML is valid
+2019-11-26 08:20:28 INFO  XMLCarDAOImpl:72 - Car NY543 loaded successfully
+2019-11-26 08:20:28 INFO  XMLCarDAOImpl:72 - Car NY544 loaded successfully
+2019-11-26 08:20:29 INFO  SQLCarDAOImpl:22 - Successfully connected to jdbc:mysql://localhost:3306/carrent?serverTimezone=UTC
+2019-11-26 08:20:29 ERROR SQLCarDAOImpl:60 - No parking with such id in database
+2019-11-26 08:20:29 ERROR SQLCarDAOImpl:60 - No parking with such id in database
+2019-11-26 08:22:22 INFO  XMLValidator:24 - D:/CarRent2/src/main/java/CarRentMigration/XMLStorage/Cars.xml has passed check through D:/CarRent2/src/main/java/CarRentMigration/XSDStorage/Car.xsd
+2019-11-26 08:22:22 INFO  XMLCarDAOImpl:35 - XML is valid
+2019-11-26 08:22:22 INFO  XMLCarDAOImpl:72 - Car NY543 loaded successfully
+2019-11-26 08:22:22 INFO  XMLCarDAOImpl:72 - Car NY544 loaded successfully
+2019-11-26 08:22:23 INFO  SQLCarDAOImpl:22 - Successfully connected to jdbc:mysql://localhost:3306/carrent?serverTimezone=UTC
+2019-11-26 08:22:23 ERROR SQLCarDAOImpl:60 - No parking with such id in database
+2019-11-26 08:22:23 ERROR SQLCarDAOImpl:60 - No parking with such id in database
+2019-11-26 08:24:27 INFO  XMLValidator:24 - D:/CarRent2/src/main/java/CarRentMigration/XMLStorage/Cars.xml has passed check through D:/CarRent2/src/main/java/CarRentMigration/XSDStorage/Car.xsd
+2019-11-26 08:24:27 INFO  XMLCarDAOImpl:35 - XML is valid
+2019-11-26 08:24:27 INFO  XMLCarDAOImpl:72 - Car NY543 loaded successfully
+2019-11-26 08:24:27 INFO  XMLCarDAOImpl:72 - Car NY544 loaded successfully
+2019-11-26 08:24:28 INFO  SQLCarDAOImpl:22 - Successfully connected to jdbc:mysql://localhost:3306/carrent?serverTimezone=UTC
+2019-11-26 08:24:28 ERROR SQLCarDAOImpl:61 - No parking with such id in database
+2019-11-26 08:24:28 ERROR SQLCarDAOImpl:61 - No parking with such id in database
+2019-11-26 08:26:24 INFO  XMLValidator:24 - D:/CarRent2/src/main/java/CarRentMigration/XMLStorage/Cars.xml has passed check through D:/CarRent2/src/main/java/CarRentMigration/XSDStorage/Car.xsd
+2019-11-26 08:26:24 INFO  XMLCarDAOImpl:35 - XML is valid
+2019-11-26 08:26:24 INFO  XMLCarDAOImpl:72 - Car NY543 loaded successfully
+2019-11-26 08:26:24 INFO  XMLCarDAOImpl:72 - Car NY544 loaded successfully
+2019-11-26 08:26:25 INFO  SQLCarDAOImpl:22 - Successfully connected to jdbc:mysql://localhost:3306/carrent?serverTimezone=UTC
+2019-11-26 08:26:25 ERROR SQLCarDAOImpl:61 - No parking with such id in database
+2019-11-26 08:26:25 ERROR SQLCarDAOImpl:61 - No parking with such id in database
+2019-11-26 08:28:30 INFO  XMLValidator:24 - D:/CarRent2/src/main/java/CarRentMigration/XMLStorage/Cars.xml has passed check through D:/CarRent2/src/main/java/CarRentMigration/XSDStorage/Car.xsd
+2019-11-26 08:28:30 INFO  XMLCarDAOImpl:35 - XML is valid
+2019-11-26 08:28:30 INFO  XMLCarDAOImpl:72 - Car NY543 loaded successfully
+2019-11-26 08:28:30 INFO  XMLCarDAOImpl:72 - Car NY544 loaded successfully
+2019-11-26 08:28:30 INFO  SQLCarDAOImpl:22 - Successfully connected to jdbc:mysql://localhost:3306/carrent?serverTimezone=UTC
+2019-11-26 08:28:30 INFO  SQLCarDAOImpl:57 - Car NY543 has been successfully added to db
+2019-11-26 08:28:30 INFO  SQLCarDAOImpl:57 - Car NY544 has been successfully added to db
+2019-11-26 08:31:10 INFO  XMLValidator:24 - D:/CarRent2/src/main/java/CarRentMigration/XMLStorage/Cars.xml has passed check through D:/CarRent2/src/main/java/CarRentMigration/XSDStorage/Car.xsd
+2019-11-26 08:31:10 INFO  XMLCarDAOImpl:35 - XML is valid
+2019-11-26 08:31:10 INFO  XMLCarDAOImpl:72 - Car NY543 loaded successfully
+2019-11-26 08:31:10 INFO  XMLCarDAOImpl:72 - Car NY544 loaded successfully
+2019-11-26 08:31:11 INFO  SQLCarDAOImpl:22 - Successfully connected to jdbc:mysql://localhost:3306/carrent?serverTimezone=UTC
+2019-11-26 08:31:11 INFO  SQLCarDAOImpl:65 - Car NY543 already exists in db
+2019-11-26 08:31:11 INFO  SQLCarDAOImpl:65 - Car NY544 already exists in db
+2019-11-26 08:32:52 INFO  XMLValidator:24 - D:/CarRent2/src/main/java/CarRentMigration/XMLStorage/Cars.xml has passed check through D:/CarRent2/src/main/java/CarRentMigration/XSDStorage/Car.xsd
+2019-11-26 08:32:52 INFO  XMLCarDAOImpl:35 - XML is valid
+2019-11-26 08:32:52 INFO  XMLCarDAOImpl:72 - Car NY543 loaded successfully
+2019-11-26 08:32:52 INFO  XMLCarDAOImpl:72 - Car NY544 loaded successfully
+2019-11-26 08:32:52 INFO  SQLCarDAOImpl:22 - Successfully connected to jdbc:mysql://localhost:3306/carrent?serverTimezone=UTC
+2019-11-26 08:32:52 ERROR SQLCarDAOImpl:61 - No parking with such id in database
+2019-11-26 08:32:52 ERROR SQLCarDAOImpl:61 - No parking with such id in database
+2019-11-26 08:34:41 INFO  XMLValidator:24 - D:/CarRent2/src/main/java/CarRentMigration/XMLStorage/Cars.xml has passed check through D:/CarRent2/src/main/java/CarRentMigration/XSDStorage/Car.xsd
+2019-11-26 08:34:41 INFO  XMLCarDAOImpl:35 - XML is valid
+2019-11-26 08:34:41 INFO  XMLCarDAOImpl:72 - Car NY543 loaded successfully
+2019-11-26 08:34:41 INFO  XMLCarDAOImpl:72 - Car NY544 loaded successfully
+2019-11-26 08:34:42 INFO  SQLCarDAOImpl:22 - Successfully connected to jdbc:mysql://localhost:3306/carrent?serverTimezone=UTC
+2019-11-26 08:34:42 ERROR SQLCarDAOImpl:61 - No parking with such id in database
+2019-11-26 08:34:42 ERROR SQLCarDAOImpl:61 - No parking with such id in database
+2019-11-26 08:38:52 INFO  XMLValidator:24 - D:/CarRent2/src/main/java/CarRentMigration/XMLStorage/Cars.xml has passed check through D:/CarRent2/src/main/java/CarRentMigration/XSDStorage/Car.xsd
+2019-11-26 08:38:52 INFO  XMLCarDAOImpl:35 - XML is valid
+2019-11-26 08:38:52 INFO  XMLCarDAOImpl:72 - Car NY543 loaded successfully
+2019-11-26 08:38:52 INFO  XMLCarDAOImpl:72 - Car NY544 loaded successfully
+2019-11-26 08:38:53 INFO  SQLCarDAOImpl:22 - Successfully connected to jdbc:mysql://localhost:3306/carrent?serverTimezone=UTC
+2019-11-26 08:38:53 INFO  SQLCarDAOImpl:56 - Car NY543 has been successfully added to db
+2019-11-26 08:38:53 INFO  SQLCarDAOImpl:56 - Car NY544 has been successfully added to db
+2019-11-26 08:45:21 INFO  XMLValidator:24 - D:/CarRent2/src/main/java/CarRentMigration/XMLStorage/Cars.xml has passed check through D:/CarRent2/src/main/java/CarRentMigration/XSDStorage/Car.xsd
+2019-11-26 08:45:21 INFO  XMLCarDAOImpl:35 - XML is valid
+2019-11-26 08:45:21 INFO  XMLCarDAOImpl:72 - Car NY543 loaded successfully
+2019-11-26 08:45:21 INFO  XMLCarDAOImpl:72 - Car NY544 loaded successfully
+2019-11-26 08:45:21 INFO  SQLCarDAOImpl:22 - Successfully connected to jdbc:mysql://localhost:3306/carrent?serverTimezone=UTC
+2019-11-26 08:45:21 INFO  SQLCarDAOImpl:64 - Car NY543 already exists in db
+2019-11-26 08:45:21 INFO  SQLCarDAOImpl:64 - Car NY544 already exists in db
+2019-11-26 08:48:58 INFO  XMLValidator:24 - D:/CarRent2/src/main/java/CarRentMigration/XMLStorage/Cars.xml has passed check through D:/CarRent2/src/main/java/CarRentMigration/XSDStorage/Car.xsd
+2019-11-26 08:48:58 INFO  XMLCarDAOImpl:35 - XML is valid
+2019-11-26 08:48:58 INFO  XMLCarDAOImpl:72 - Car NY543 loaded successfully
+2019-11-26 08:48:58 INFO  XMLCarDAOImpl:72 - Car NY544 loaded successfully
+2019-11-26 08:48:59 INFO  SQLCarDAOImpl:22 - Successfully connected to jdbc:mysql://localhost:3306/carrent?serverTimezone=UTC
+2019-11-26 08:48:59 INFO  SQLCarDAOImpl:56 - Car NY543 has been successfully added to db
+2019-11-26 08:48:59 INFO  SQLCarDAOImpl:56 - Car NY544 has been successfully added to db
+2019-11-26 08:53:04 INFO  XMLValidator:24 - D:/CarRent2/src/main/java/CarRentMigration/XMLStorage/Cars.xml has passed check through D:/CarRent2/src/main/java/CarRentMigration/XSDStorage/Car.xsd
+2019-11-26 08:53:04 INFO  XMLCarDAOImpl:35 - XML is valid
+2019-11-26 08:53:04 INFO  XMLCarDAOImpl:72 - Car NY543 loaded successfully
+2019-11-26 08:53:04 INFO  XMLCarDAOImpl:72 - Car NY544 loaded successfully
+2019-11-26 08:53:05 INFO  SQLCarDAOImpl:22 - Successfully connected to jdbc:mysql://localhost:3306/carrent?serverTimezone=UTC
+2019-11-26 08:53:05 INFO  SQLCarDAOImpl:56 - Car NY543 has been successfully added to db
+2019-11-26 08:53:05 INFO  SQLCarDAOImpl:56 - Car NY544 has been successfully added to db
+2019-11-26 08:57:06 WARN  XMLValidator:32 - D:/CarRent2/src/main/java/CarRentMigration/XMLStorage/Cars.xml has'n passed check through D:/CarRent2/src/main/java/CarRentMigration/XSDStorage/Car.xsd
+2019-11-26 08:57:06 ERROR XMLCarDAOImpl:31 - XML is not valid.
+2019-11-26 08:57:06 INFO  SQLCarDAOImpl:22 - Successfully connected to jdbc:mysql://localhost:3306/carrent?serverTimezone=UTC
+2019-11-26 08:57:46 WARN  XMLValidator:32 - D:/CarRent2/src/main/java/CarRentMigration/XMLStorage/Cars.xml has'n passed check through D:/CarRent2/src/main/java/CarRentMigration/XSDStorage/Car.xsd
+2019-11-26 08:57:46 ERROR XMLCarDAOImpl:31 - XML is not valid.
+2019-11-26 08:57:46 INFO  SQLCarDAOImpl:22 - Successfully connected to jdbc:mysql://localhost:3306/carrent?serverTimezone=UTC
+2019-11-26 08:58:10 WARN  XMLValidator:32 - D:/CarRent2/src/main/java/CarRentMigration/XMLStorage/Cars.xml has'n passed check through D:/CarRent2/src/main/java/CarRentMigration/XSDStorage/Car.xsd
+2019-11-26 08:58:10 ERROR XMLCarDAOImpl:31 - XML is not valid.
+2019-11-26 08:58:10 INFO  SQLCarDAOImpl:22 - Successfully connected to jdbc:mysql://localhost:3306/carrent?serverTimezone=UTC
+2019-11-26 08:59:38 WARN  XMLValidator:32 - D:/CarRent2/src/main/java/CarRentMigration/XMLStorage/Cars.xml has'n passed check through D:/CarRent2/src/main/java/CarRentMigration/XSDStorage/Car.xsd
+2019-11-26 08:59:38 ERROR XMLCarDAOImpl:31 - XML is not valid.
+2019-11-26 08:59:39 INFO  SQLCarDAOImpl:22 - Successfully connected to jdbc:mysql://localhost:3306/carrent?serverTimezone=UTC
+2019-11-26 09:00:26 INFO  XMLValidator:24 - D:/CarRent2/src/main/java/CarRentMigration/XMLStorage/Cars.xml has passed check through D:/CarRent2/src/main/java/CarRentMigration/XSDStorage/Car.xsd
+2019-11-26 09:00:26 INFO  XMLCarDAOImpl:35 - XML is valid
+2019-11-26 09:00:27 INFO  XMLCarDAOImpl:72 - Car NY543 loaded successfully
+2019-11-26 09:00:27 INFO  XMLCarDAOImpl:72 - Car NY544 loaded successfully

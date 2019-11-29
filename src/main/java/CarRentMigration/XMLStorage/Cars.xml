@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Cars>
+ <car id="1">
+  <model>RS7</model>
+  <brand>Audi</brand>
+  <color>Blue</color>
+  <number>NY543</number>
+  <maxSpeed>340</maxSpeed>
+  <weight>2000</weight>
+  <accelerationTime>4</accelerationTime>
+  <driveRange>500</driveRange>
+  <paymentPerMinute>2</paymentPerMinute>
+  <passengerCapacity>4</passengerCapacity>
+  <parkingId>1</parkingId>
+ </car>
+ <car id="2">
+  <model>BMW</model>
+  <brand>X7</brand>
+  <color>Black</color>
+  <number>NY544</number>
+  <maxSpeed>320</maxSpeed>
+  <weight>2200</weight>
+  <accelerationTime>5</accelerationTime>
+  <driveRange>500</driveRange>
+  <paymentPerMinute>2</paymentPerMinute>
+  <passengerCapacity>4</passengerCapacity>
+  <parkingId>1</parkingId>
+ </car>
+ <car id="3">
+  <model>BMW</model>
+  <brand>X7</brand>
+  <color>Black</color>
+  <number>NY5445</number>
+  <maxSpeed>320</maxSpeed>
+  <weight>2200</weight>
+  <accelerationTime>5</accelerationTime>
+  <driveRange>500</driveRange>
+  <paymentPerMinute>2</paymentPerMinute>
+  <passengerCapacity>4</passengerCapacity>
+ </car>
+</Cars>

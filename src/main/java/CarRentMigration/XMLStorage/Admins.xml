@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Admins>
+ <admin id="1">
+  <name>Jack</name>
+  <surname>Jones</surname>
+  <nickname>JakcJones</nickname>
+  <phoneNumber>+123456789</phoneNumber>
+  <passportNumber>US7654321</passportNumber>
+  <accessLevel>3</accessLevel>
+  <userRequestsAnswered>250</userRequestsAnswered>
+  <salary>5000</salary>
+ </admin>
+</Admins>
