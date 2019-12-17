@@ -1,6 +1,7 @@
 package CarRentMigration.DAO;
 
 import CarRentMigration.Beans.Admin;
+import CarRentMigration.DAO.parsers.domparser.DOMAdminParser;
 import org.apache.log4j.Logger;
 import org.w3c.dom.Document;
 import org.w3c.dom.Element;
@@ -18,7 +19,7 @@ import java.util.List;
 
 public class XMLAdminDAOImpl implements AdminDAO {
 
-    private static final Logger log = Logger.getLogger(XMLAdminDAOImpl.class);
+    private static final Logger log = Logger.getLogger(DOMAdminParser.class);
 
     @Override
     public void saveAllAdmins(List<Admin> Admins) throws DAOException {

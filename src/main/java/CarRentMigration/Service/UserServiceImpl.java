@@ -1,9 +1,11 @@
 package CarRentMigration.Service;
 
 import CarRentMigration.Beans.User;
+import CarRentMigration.Beans.User;
 import CarRentMigration.DAO.DAOException;
 import CarRentMigration.DAO.DAOFactory;
 import CarRentMigration.DAO.UserDAO;
+import CarRentMigration.DAO.parsers.ParserType;
 import org.apache.log4j.Logger;
 
 import java.util.List;
@@ -40,6 +42,22 @@ public class UserServiceImpl implements UserService {
             sqlUserDAO.saveAllUsers(users);
         }
         catch (DAOException d) {
+            log.error(d.getMessage());
+            throw new ServiceException(d);
+        }
+    }
+
+    /**
+     *
+     * @param parserType parser to use
+     * @return list of all users
+     * @throws ServiceException throws Service exception if exception on lower level occured
+     */
+    @Override
+    public List<User> getAllUsersFromPaser(ParserType parserType) throws ServiceException {
+        try {
+            return DAOFactory.getFactory().getUserParser(parserType).getAllUsers();
+        } catch (DAOException d) {
             log.error(d.getMessage());
             throw new ServiceException(d);
         }

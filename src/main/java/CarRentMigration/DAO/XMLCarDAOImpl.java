@@ -1,6 +1,7 @@
 package CarRentMigration.DAO;
 
 import CarRentMigration.Beans.Car;
+import CarRentMigration.DAO.parsers.domparser.DOMCarParser;
 import org.apache.log4j.Logger;
 import org.w3c.dom.Document;
 import org.w3c.dom.Element;
@@ -18,7 +19,7 @@ import java.util.List;
 
 public class XMLCarDAOImpl implements CarDAO {
 
-    private static final Logger log = Logger.getLogger(XMLCarDAOImpl.class);
+    private static final Logger log = Logger.getLogger(DOMCarParser.class);
 
     @Override
     public List<Car> getAllCars() throws DAOException {

@@ -1,6 +1,7 @@
 package CarRentMigration.DAO;
 
 import CarRentMigration.Beans.Driver;
+import CarRentMigration.DAO.parsers.domparser.DOMDriverParser;
 import org.apache.log4j.Logger;
 import org.w3c.dom.Document;
 import org.w3c.dom.Element;
@@ -18,7 +19,7 @@ import java.util.List;
 
 public class XMLDriverDAOImpl implements DriverDAO {
 
-    private static final Logger log = Logger.getLogger(XMLDriverDAOImpl.class);
+    private static final Logger log = Logger.getLogger(DOMDriverParser.class);
 
     @Override
     public void saveAllDrivers(List<Driver> drivers) throws DAOException {

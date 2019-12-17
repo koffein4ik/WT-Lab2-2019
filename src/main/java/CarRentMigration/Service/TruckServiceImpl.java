@@ -4,6 +4,7 @@ import CarRentMigration.Beans.Truck;
 import CarRentMigration.DAO.DAOException;
 import CarRentMigration.DAO.DAOFactory;
 import CarRentMigration.DAO.TruckDAO;
+import CarRentMigration.DAO.parsers.ParserType;
 import org.apache.log4j.Logger;
 
 import java.util.List;
@@ -19,6 +20,16 @@ public class TruckServiceImpl implements TruckService {
             return xmlTruckDAO.getAllTrucks();
         }
         catch (DAOException d) {
+            log.error(d.getMessage());
+            throw new ServiceException(d);
+        }
+    }
+
+    @Override
+    public List<Truck> getAllTrucksFromPaser(ParserType parserType) throws ServiceException {
+        try {
+            return DAOFactory.getFactory().getTruckParser(parserType).getAllTrucks();
+        } catch (DAOException d) {
             log.error(d.getMessage());
             throw new ServiceException(d);
         }

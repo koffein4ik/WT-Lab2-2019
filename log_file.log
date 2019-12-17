@@ -333,3 +333,63 @@
 2019-11-26 09:00:26 INFO  XMLCarDAOImpl:35 - XML is valid
 2019-11-26 09:00:27 INFO  XMLCarDAOImpl:72 - Car NY543 loaded successfully
 2019-11-26 09:00:27 INFO  XMLCarDAOImpl:72 - Car NY544 loaded successfully
+2019-12-11 22:38:39 INFO  XMLValidator:24 - D:/CarRent2/src/main/java/CarRentMigration/XMLStorage/Admins.xml has passed check through D:/CarRent2/src/main/java/CarRentMigration/XSDStorage/Admin.xsd
+2019-12-11 22:38:39 INFO  XMLAdminDAOImpl:48 - XML is valid
+2019-12-11 22:39:10 INFO  XMLValidator:24 - D:/CarRent2/src/main/java/CarRentMigration/XMLStorage/Admins.xml has passed check through D:/CarRent2/src/main/java/CarRentMigration/XSDStorage/Admin.xsd
+2019-12-11 22:39:10 INFO  XMLAdminDAOImpl:48 - XML is valid
+2019-12-11 23:33:45 INFO  XMLValidator:24 - D:/CarRent2/src/main/java/CarRentMigration/XMLStorage/Admins.xml has passed check through D:/CarRent2/src/main/java/CarRentMigration/XSDStorage/Admin.xsd
+2019-12-11 23:33:45 INFO  SAXAdminParser:42 - XML is valid
+2019-12-11 23:35:16 INFO  XMLValidator:24 - D:/CarRent2/src/main/java/CarRentMigration/XMLStorage/Admins.xml has passed check through D:/CarRent2/src/main/java/CarRentMigration/XSDStorage/Admin.xsd
+2019-12-11 23:35:16 INFO  SAXAdminParser:42 - XML is valid
+2019-12-11 23:41:35 INFO  XMLValidator:24 - D:/CarRent2/src/main/java/CarRentMigration/XMLStorage/Admins.xml has passed check through D:/CarRent2/src/main/java/CarRentMigration/XSDStorage/Admin.xsd
+2019-12-11 23:41:35 INFO  SAXAdminParser:43 - XML is valid
+2019-12-11 23:41:40 INFO  XMLValidator:24 - D:/CarRent2/src/main/java/CarRentMigration/XMLStorage/Admins.xml has passed check through D:/CarRent2/src/main/java/CarRentMigration/XSDStorage/Admin.xsd
+2019-12-11 23:41:40 INFO  SAXAdminParser:43 - XML is valid
+2019-12-11 23:43:34 INFO  XMLValidator:24 - D:/CarRent2/src/main/java/CarRentMigration/XMLStorage/Admins.xml has passed check through D:/CarRent2/src/main/java/CarRentMigration/XSDStorage/Admin.xsd
+2019-12-11 23:43:34 INFO  SAXAdminParser:44 - XML is valid
+2019-12-11 23:55:14 INFO  XMLValidator:24 - D:/CarRent2/src/main/java/CarRentMigration/XMLStorage/Admins.xml has passed check through D:/CarRent2/src/main/java/CarRentMigration/XSDStorage/Admin.xsd
+2019-12-11 23:55:14 INFO  SAXAdminParser:43 - XML is valid
+2019-12-11 23:56:10 INFO  XMLValidator:24 - D:/CarRent2/src/main/java/CarRentMigration/XMLStorage/Admins.xml has passed check through D:/CarRent2/src/main/java/CarRentMigration/XSDStorage/Admin.xsd
+2019-12-11 23:56:10 INFO  SAXAdminParser:54 - XML is valid
+2019-12-11 23:56:33 INFO  XMLValidator:24 - D:/CarRent2/src/main/java/CarRentMigration/XMLStorage/Admins.xml has passed check through D:/CarRent2/src/main/java/CarRentMigration/XSDStorage/Admin.xsd
+2019-12-11 23:56:33 INFO  SAXAdminParser:54 - XML is valid
+2019-12-11 23:58:20 INFO  XMLValidator:24 - D:/CarRent2/src/main/java/CarRentMigration/XMLStorage/Admins.xml has passed check through D:/CarRent2/src/main/java/CarRentMigration/XSDStorage/Admin.xsd
+2019-12-11 23:58:20 INFO  SAXAdminParser:54 - XML is valid
+2019-12-11 23:58:29 INFO  XMLValidator:24 - D:/CarRent2/src/main/java/CarRentMigration/XMLStorage/Admins.xml has passed check through D:/CarRent2/src/main/java/CarRentMigration/XSDStorage/Admin.xsd
+2019-12-11 23:58:29 INFO  SAXAdminParser:54 - XML is valid
+2019-12-12 00:01:23 INFO  XMLValidator:24 - D:/CarRent2/src/main/java/CarRentMigration/XMLStorage/Admins.xml has passed check through D:/CarRent2/src/main/java/CarRentMigration/XSDStorage/Admin.xsd
+2019-12-12 00:01:23 INFO  SAXAdminParser:54 - XML is valid
+2019-12-12 00:01:26 INFO  XMLValidator:24 - D:/CarRent2/src/main/java/CarRentMigration/XMLStorage/Admins.xml has passed check through D:/CarRent2/src/main/java/CarRentMigration/XSDStorage/Admin.xsd
+2019-12-12 00:01:26 INFO  SAXAdminParser:54 - XML is valid
+2019-12-12 00:01:41 INFO  XMLValidator:24 - D:/CarRent2/src/main/java/CarRentMigration/XMLStorage/Admins.xml has passed check through D:/CarRent2/src/main/java/CarRentMigration/XSDStorage/Admin.xsd
+2019-12-12 00:01:41 INFO  SAXAdminParser:54 - XML is valid
+2019-12-12 00:02:06 INFO  XMLValidator:24 - D:/CarRent2/src/main/java/CarRentMigration/XMLStorage/Admins.xml has passed check through D:/CarRent2/src/main/java/CarRentMigration/XSDStorage/Admin.xsd
+2019-12-12 00:02:06 INFO  SAXAdminParser:54 - XML is valid
+2019-12-12 00:06:01 INFO  XMLValidator:24 - D:/CarRent2/src/main/java/CarRentMigration/XMLStorage/Admins.xml has passed check through D:/CarRent2/src/main/java/CarRentMigration/XSDStorage/Admin.xsd
+2019-12-12 00:06:01 INFO  SAXAdminParser:54 - XML is valid
+2019-12-12 00:06:56 INFO  XMLValidator:24 - D:/CarRent2/src/main/java/CarRentMigration/XMLStorage/Admins.xml has passed check through D:/CarRent2/src/main/java/CarRentMigration/XSDStorage/Admin.xsd
+2019-12-12 00:06:56 INFO  SAXAdminParser:54 - XML is valid
+2019-12-12 00:08:19 INFO  XMLValidator:24 - D:/CarRent2/src/main/java/CarRentMigration/XMLStorage/Admins.xml has passed check through D:/CarRent2/src/main/java/CarRentMigration/XSDStorage/Admin.xsd
+2019-12-12 00:08:19 INFO  SAXAdminParser:54 - XML is valid
+2019-12-12 00:08:38 INFO  XMLValidator:24 - D:/CarRent2/src/main/java/CarRentMigration/XMLStorage/Admins.xml has passed check through D:/CarRent2/src/main/java/CarRentMigration/XSDStorage/Admin.xsd
+2019-12-12 00:08:38 INFO  SAXAdminParser:55 - XML is valid
+2019-12-12 13:48:10 INFO  XMLValidator:24 - D:/CarRent2/src/main/java/CarRentMigration/XMLStorage/Admins.xml has passed check through D:/CarRent2/src/main/java/CarRentMigration/XSDStorage/Admin.xsd
+2019-12-12 13:48:10 INFO  SAXAdminParser:45 - XML is valid
+2019-12-12 16:12:54 INFO  XMLValidator:24 - D:/CarRent2/src/main/java/CarRentMigration/XMLStorage/Admins.xml has passed check through D:/CarRent2/src/main/java/CarRentMigration/XSDStorage/Admin.xsd
+2019-12-12 16:12:54 INFO  SAXAdminParser:45 - XML is valid
+2019-12-12 16:21:09 INFO  XMLValidator:24 - D:/CarRent2/src/main/java/CarRentMigration/XMLStorage/Admins.xml has passed check through D:/CarRent2/src/main/java/CarRentMigration/XSDStorage/Admin.xsd
+2019-12-12 16:21:09 INFO  SAXAdminParser:45 - XML is valid
+2019-12-12 16:27:24 INFO  XMLValidator:24 - D:/CarRent2/src/main/java/CarRentMigration/XMLStorage/Admins.xml has passed check through D:/CarRent2/src/main/java/CarRentMigration/XSDStorage/Admin.xsd
+2019-12-12 16:27:24 INFO  SAXAdminParser:45 - XML is valid
+2019-12-12 16:27:49 INFO  XMLValidator:24 - D:/CarRent2/src/main/java/CarRentMigration/XMLStorage/Admins.xml has passed check through D:/CarRent2/src/main/java/CarRentMigration/XSDStorage/Admin.xsd
+2019-12-12 16:27:49 INFO  SAXAdminParser:45 - XML is valid
+2019-12-12 16:50:33 INFO  XMLValidator:24 - D:/CarRent2/src/main/java/CarRentMigration/XMLStorage/Admins.xml has passed check through D:/CarRent2/src/main/java/CarRentMigration/XSDStorage/Admin.xsd
+2019-12-12 16:50:33 INFO  SAXAdminParser:45 - XML is valid
+2019-12-12 23:03:43 INFO  XMLValidator:24 - D:/CarRent2/src/main/java/CarRentMigration/XMLStorage/Admins.xml has passed check through D:/CarRent2/src/main/java/CarRentMigration/XSDStorage/Admin.xsd
+2019-12-12 23:03:43 INFO  SAXAdminParser:45 - XML is valid
+2019-12-12 23:07:24 INFO  XMLValidator:24 - D:/CarRent2/src/main/java/CarRentMigration/XMLStorage/Admins.xml has passed check through D:/CarRent2/src/main/java/CarRentMigration/XSDStorage/Admin.xsd
+2019-12-12 23:07:24 INFO  SAXAdminParser:45 - XML is valid
+2019-12-12 23:35:10 INFO  XMLValidator:24 - D:/CarRent2/src/main/java/CarRentMigration/XMLStorage/Admins.xml has passed check through D:/CarRent2/src/main/java/CarRentMigration/XSDStorage/Admin.xsd
+2019-12-12 23:35:10 INFO  SAXAdminParser:46 - XML is valid
+2019-12-13 00:01:11 INFO  XMLValidator:24 - D:/CarRent2/src/main/java/CarRentMigration/XMLStorage/Admins.xml has passed check through D:/CarRent2/src/main/java/CarRentMigration/XSDStorage/Admin.xsd
+2019-12-13 00:01:11 INFO  SAXAdminParser:46 - XML is valid

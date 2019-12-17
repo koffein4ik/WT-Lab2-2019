@@ -4,6 +4,7 @@ import CarRentMigration.Beans.Parking;
 import CarRentMigration.DAO.DAOException;
 import CarRentMigration.DAO.DAOFactory;
 import CarRentMigration.DAO.ParkingDAO;
+import CarRentMigration.DAO.parsers.ParserType;
 import org.apache.log4j.Logger;
 
 import java.util.List;
@@ -19,6 +20,16 @@ public class ParkingServiceImpl implements ParkingService {
             return xmlParkingDAO.getAllParkings();
         }
         catch (DAOException d) {
+            log.error(d.getMessage());
+            throw new ServiceException(d);
+        }
+    }
+
+    @Override
+    public List<Parking> getAllParkingsFromPaser(ParserType parserType) throws ServiceException {
+        try {
+            return DAOFactory.getFactory().getParkingParser(parserType).getAllParkings();
+        } catch (DAOException d) {
             log.error(d.getMessage());
             throw new ServiceException(d);
         }

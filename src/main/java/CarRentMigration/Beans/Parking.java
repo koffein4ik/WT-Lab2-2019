@@ -13,6 +13,13 @@ public class Parking implements Comparable<Parking> {
 
     public Parking() { };
 
+    public Parking(String location, int carCapacity, int truckCapacity, int parkingId) {
+        this.location = location;
+        this.carCapacity = carCapacity;
+        this.truckCapacity = truckCapacity;
+        this.parkingId = parkingId;
+    }
+
     public int getParkingId() {
         return parkingId;
     }

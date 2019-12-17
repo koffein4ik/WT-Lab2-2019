@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Users>
+    <user id="1">
+        <name>Jack</name>
+        <surname>Jones</surname>
+        <nickname>JakcJones</nickname>
+        <phoneNumber>+123456789</phoneNumber>
+        <passportNumber>US7654321</passportNumber>
+        <moneyOnBalance>250</moneyOnBalance>
+        <tripsCompleted>10</tripsCompleted>
+    </user>
+</Users>

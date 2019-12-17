@@ -1,6 +1,7 @@
 package CarRentMigration.DAO;
 
 import CarRentMigration.Beans.User;
+import CarRentMigration.DAO.parsers.domparser.DOMUserParser;
 import org.apache.log4j.Logger;
 import org.w3c.dom.Document;
 import org.w3c.dom.Element;
@@ -21,7 +22,7 @@ import java.util.List;
  */
 public class XMLUserDAOImpl implements UserDAO {
 
-    private static final Logger log = Logger.getLogger(XMLUserDAOImpl.class);
+    private static final Logger log = Logger.getLogger(DOMUserParser.class);
 
     /**
      * Checks XML for validity and returns list of users if XML is valid

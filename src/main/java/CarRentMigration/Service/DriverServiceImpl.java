@@ -4,6 +4,7 @@ import CarRentMigration.Beans.Driver;
 import CarRentMigration.DAO.DAOException;
 import CarRentMigration.DAO.DAOFactory;
 import CarRentMigration.DAO.DriverDAO;
+import CarRentMigration.DAO.parsers.ParserType;
 import org.apache.log4j.Logger;
 
 import java.util.List;
@@ -19,6 +20,16 @@ public class DriverServiceImpl implements DriverService {
             return xmlDriverDAO.getAllDrivers();
         }
         catch (DAOException d) {
+            log.error(d.getMessage());
+            throw new ServiceException(d);
+        }
+    }
+
+    @Override
+    public List<Driver> getAllDriversFromPaser(ParserType parserType) throws ServiceException {
+        try {
+            return DAOFactory.getFactory().getDriverParser(parserType).getAllDrivers();
+        } catch (DAOException d) {
             log.error(d.getMessage());
             throw new ServiceException(d);
         }

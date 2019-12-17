@@ -1,6 +1,7 @@
 package CarRentMigration.DAO;
 
 import CarRentMigration.Beans.Truck;
+import CarRentMigration.DAO.parsers.domparser.DOMTruckParser;
 import org.apache.log4j.Logger;
 import org.w3c.dom.Document;
 import org.w3c.dom.Element;
@@ -18,7 +19,7 @@ import java.util.List;
 
 public class XMLTruckDAOImpl implements TruckDAO {
 
-    private static final Logger log = Logger.getLogger(XMLTruckDAOImpl.class);
+    private static final Logger log = Logger.getLogger(DOMTruckParser.class);
 
     @Override
     public void saveAllTrucks(List<Truck> cars) throws DAOException {

@@ -1,6 +1,7 @@
 package CarRentMigration.DAO;
 
 import CarRentMigration.Beans.Parking;
+import CarRentMigration.DAO.parsers.domparser.DOMParkingParser;
 import org.apache.log4j.Logger;
 import org.w3c.dom.Document;
 import org.w3c.dom.Element;
@@ -18,7 +19,7 @@ import java.util.List;
 
 public class XMLParkingDAOImpl implements ParkingDAO {
 
-    private static final Logger log = Logger.getLogger(XMLParkingDAOImpl.class);
+    private static final Logger log = Logger.getLogger(DOMParkingParser.class);
 
     @Override
     public void saveAllParkings(List<Parking> parkings) throws DAOException {
